@@ -5,9 +5,9 @@
 **Team Number:** 01  
 **Intake:** Winter-2022  
 **Members:**
-- Khalid M. Aldahasy
-- Saad A. Aljehani
-- Bander S. Alsulami  
+- Khalid M. Al-Dahasy
+- Saad A. Al-Jehani
+- Bander S. Al-Sulami  
 
 **Advisors:**
 - Dr. Muhammad Bilal (Project Advisor)
