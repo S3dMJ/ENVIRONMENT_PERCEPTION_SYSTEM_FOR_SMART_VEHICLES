@@ -2,20 +2,8 @@ import cv2
 import numpy as np
 import queue
 import threading
-
 import time
-
-
 import Jetson.GPIO as GPIO
-
-
-
-
-
-
-
-
-
 
 
 def rectify_stereo_images(imgL, imgR, map1L, map2L,map1R, map2R):
@@ -41,8 +29,6 @@ def disparity_to_distance(disparity, focal_length, baseline):
         return float('inf')  # Return infinity if disparity is 0
     else:
         return focal_length * baseline / disparity
-
-
 
 
 def calculate_average_distance(disparity_map, center_x, center_y, window_size=5):
