@@ -1,0 +1,42 @@
+# Prototype Operation Instructions
+
+This README outlines the steps to operate the prototype developed on Jetson Nano with OpenCV and CUDA support. The prototype integrates multi-camera input and provides various functionalities like bird's eye view, object detection, and distance measurement.
+
+## Setup and Operation
+
+Follow these steps to set up and operate the prototype:
+
+### 1. Turn On the Jetson Nano
+- Ensure the Jetson Nano is powered on.
+- Verify that OpenCV with CUDA support is installed and operational.
+
+### 2. Camera and Arduino-Relays Circuit Setup
+- Connect two out of the four cameras to the Jetson Nano.
+- Attach the Arduino-relays circuit to the Jetson GPIO as shown in the attached video on the USB drive.
+
+### 3. Running the Main Python Code
+- Connect a keyboard to the Jetson Nano.
+- Access the USB drive and locate the main Python script.
+- Execute the script using the command: python3 [script_name].py.
+
+### 4. Initial Camera Setup and Additional Cameras
+- The program will initially display the feed from the two connected cameras.
+- If the program runs successfully, connect the remaining two cameras.
+
+### 5. Keypad Button Functions
+- *Button 1*: Activate Bird's Eye View mode.
+- *Button 2*: Display undistorted view from cameras 0 and 1.
+- *Button 3*: Display undistorted view from cameras 2 and 3.
+- *Button 4*: Turn on object detection for the front feed.
+- *Button 5*: Turn on object detection for the back feed.
+- *Button 6*: Display distance measurement for the front feed.
+- *Button 7*: Display distance measurement for the back feed.
+- *Button 0*: Exit the program.
+
+## Notes
+- The system utilizes OpenCV and CUDA for image processing and handling of camera feeds.
+- Functions included are for rectifying stereo images, calculating distances, undistorting fisheye lenses, creating a bird's eye view, and object detection.
+- GPIO pins on the Jetson Nano are used for keypad input.
+- Ensure all hardware connections are secure and compatible.
+- Monitor the console for any error messages for troubleshooting.
+- make sure the cfg files provided in the usb are in the same directory as the script.
