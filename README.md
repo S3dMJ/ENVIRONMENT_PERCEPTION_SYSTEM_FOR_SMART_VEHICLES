@@ -1,7 +1,8 @@
 # Environment Perception System for Smart Vehicles
 
-<img src="https://raw.githubusercontent.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/main/The%20Team.jpg" alt="The Team">
-<img src="https://raw.githubusercontent.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/main/The%20Project.jpg" alt="The Project">
+![The Team](https://raw.githubusercontent.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/main/The%20Team.jpg)
+![The Project](https://raw.githubusercontent.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/main/The%20Project.jpg)
+
 
 ## Team Information
 
