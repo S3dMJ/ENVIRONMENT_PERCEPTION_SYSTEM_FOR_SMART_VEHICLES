@@ -24,8 +24,7 @@ The "Environment Perception System for Smart Vehicles" is an innovative Advanced
 3. **Presentations:** Slides and materials from all project presentations.
 4. **Prototype Instructions:** A step-by-step guide on setting up and running the prototype for comprehensive demonstrations.
 5. **Source Files:** The code files instrumental in the project's development.
-6. **Instructions to Operate:** Guidelines for handling and deploying the software, inclusive of necessary tools.
-7. **3D Design Files:** SolidWorks files and designs used in the physical construction of the prototype.
+6. **3D Design Files:** SolidWorks files and designs used in the physical construction of the prototype.
 
 ## Features
 
