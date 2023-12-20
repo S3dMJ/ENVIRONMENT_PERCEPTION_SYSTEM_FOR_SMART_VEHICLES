@@ -1,6 +1,5 @@
 # Environment Perception System for Smart Vehicles
 
-![The Team](https://github.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/blob/main/Images/The%20Team.jpeg)
 ![The Project](https://github.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/blob/main/Images/The%20Project.jpeg)
 
 
@@ -44,3 +43,6 @@ The "Environment Perception System for Smart Vehicles" is an innovative Advanced
 ## Acknowledgements
 
 Special thanks to **Dr. Muhammad Bilal** for his invaluable mentorship and guidance, and **Dr. Mohammed Abdulaal** at the CEIES for fostering a collaborative environment. Gratitude to our families and friends for their unwavering support throughout this transformative journey.
+
+![The Team](https://github.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/blob/main/Images/The%20Team.jpeg)
+
